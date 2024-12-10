@@ -30,7 +30,7 @@ const App = () => {
   return (
     <div className="movie-container">
       <div className="movie-heading">
-        <h1>Moviess</h1>
+        <h1>Moviesssssssssssssss</h1>
       </div>
 
       <div className="searchbar-row">
